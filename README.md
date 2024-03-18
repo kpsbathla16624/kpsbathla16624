@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamal Preet Singh</h1>
 <h3 align="center">A passionate Flutter developer from chandigarh</h3>
 
-- 🔭 I’m currently working on [Shop Fusion](https://github.com/kpsbathla16624/Shop-Fusion)
 
 - 🌱 I’m currently learning **clean architecture in flutter**
 
