@@ -15,7 +15,6 @@ Hello! I'm Kamal Preet Singh,  a passionate Flutter app developer dedicated to c
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kpsbathla16624&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=kpsbathla16624&icon=0&color=8)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
