@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Kamal Preet Singh,  a passionate Flutter app developer dedicated to creating seamless, high-performance cross-platform applications. <br>🌍 From Chandigarh <br>🏢 Currently working at Medoc Health IT  as a App Frontend Developer.<br>🎓 Graduated in B.E (CSE ) from Chandigarh University 
+Hello! I'm Kamal Preet Singh,  a passionate Flutter app developer dedicated to creating seamless, high-performance cross-platform applications. <br>🌍 From Chandigarh <br>🏢 Currently working at Medoc Health IT  as a Flutter Developer.<br>🎓 Graduated in B.E (CSE ) from Chandigarh University 
 
 
 ## 🌐 Socials:
