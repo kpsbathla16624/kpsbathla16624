@@ -14,9 +14,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kps.bathla)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamalpreet6198@gmail.com)
 
-## 💼 Current Work
+## 💼 Work
 
-**Software Engineering Intern (Flutter) @ Medoc Health IT PVT LTD** *(Jul 2024 - Present)*
+### Mobile Engineering Intern (Flutter)  
+**CRED** · *March 2026 – Present*  
+
+
+### Software Engineering Intern (Flutter)  
+**Medoc Health IT Pvt. Ltd.** · *July 2024 – March 2026*  
+
 
 ## 🚀 Featured Projects
 
