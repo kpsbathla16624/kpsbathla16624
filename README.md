@@ -3,7 +3,7 @@
 **Flutter Developer** | **Full-Stack Engineer** | **Open Source Contributor**
 
 🌍 Based in Chandigarh, India  
-🏢 Software Engineering Intern @ Medoc Health IT PVT LTD  
+🏢 Mobile  Intern @ CRED
 🎓 B.E. in Computer Science Engineering from Chandigarh University  
 🚀 Building scalable cross-platform applications with Flutter & React
 
